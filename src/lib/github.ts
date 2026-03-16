@@ -37,7 +37,7 @@ export async function getGitHubRepos(): Promise<GitHubRepo[]> {
         headers: {
           Accept: "application/vnd.github.v3+json",
         },
-        next: { revalidate: 3600 },
+        next: { revalidate: 600 },
       }
     );
 
