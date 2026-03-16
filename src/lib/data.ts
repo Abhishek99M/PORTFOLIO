@@ -153,4 +153,5 @@ export const socialLinks = {
   github: "https://github.com/Abhishek99M",
   linkedin: "https://linkedin.com/in/abhishek-kumar",
   email: "abhishek990103@gmail.com",
+  instagram: "https://instagram.com/ig._.abhi172",
 };
